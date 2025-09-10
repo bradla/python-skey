@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/skey/__init__.py
+src/skey/core.py
+src/skey.egg-info/PKG-INFO
+src/skey.egg-info/SOURCES.txt
+src/skey.egg-info/dependency_links.txt
+src/skey.egg-info/top_level.txt
+tests/test_skey.py
