@@ -3,4 +3,4 @@ SKey Python package published on PyPI.
 ## Installation
 
 ```bash
-pip install skey
+pip install skey-lib
